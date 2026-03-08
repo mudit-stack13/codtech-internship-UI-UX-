@@ -9,7 +9,8 @@ Modernized uber web interface by replacing illustrations with high-quality real-
 ### 🌐 Task 2: Responsive Portfolio Webpage
 Developed a fully responsive personal portfolio webpage using HTML, CSS, and JavaScript.
 * **Key Features:** Smooth scrolling, mobile-friendly layout, and interactive UI components.
-* **[View Code Directory](./portfolio_webpagetask2/)**
+  * **[View Code Directory](https://github.com/mudit-stack13/codtech-internship-UI-UX-/tree/main/portfolio_webpagetask2)**
+*
 
 *   ### 🎨 Task 3: Instagram - Custom Circles Redesign (app redesigning)
 Redesigned the "Custom Circles" feature for Instagram to improve user privacy and sharing experience.
